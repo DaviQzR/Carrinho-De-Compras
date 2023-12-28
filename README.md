@@ -2,6 +2,10 @@
 
 Bem-vindo ao Carrinho de Compras! Este projeto é uma aplicação web que simula um carrinho de compras básico. Ele permite adicionar produtos, especificando a quantidade desejada, e exibe o valor total da compra em tempo real.
 
+## Link de Acesso a Página
+
+https://carrinho-de-compras-one-phi.vercel.app
+
 ## Funcionalidades Principais
 
 - **Adicionar Produtos:** Escolha um produto e especifique a quantidade desejada.
